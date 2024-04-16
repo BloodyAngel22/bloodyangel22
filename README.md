@@ -1,4 +1,4 @@
-![Header](https://github.com/BloodyAngel22/bloodyangel22/assets/githubME.gif)
+![Header](assets/githubME.gif)
 
 ### HI THERE  👋
 
