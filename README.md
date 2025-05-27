@@ -15,7 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BloodyAngel22&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/BloodyAngel22/BloodyAngel22/output/snake.svg" alt="Snake animation" />
